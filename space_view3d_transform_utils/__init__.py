@@ -24,7 +24,7 @@ bl_info = {
     "location": "View3D > Transform category in Tools panel",
     "warning": "Experimental / WIP",
     "wiki_url": "http://wiki.blender.org/index.php/Extensions:2.6/Py/Scripts/3D_interaction/BatchTransforms",
-    "tracker_url": "",
+    "tracker_url": "https://github.com/dairin0d/transform-utils/issues",
     "category": "3D View"}
 #============================================================================#
 
@@ -110,6 +110,8 @@ For EDIT_ARMATURE mode: implement aggregation of other settings from EditBone?
 * sync coordsystems/summaries/etc. between 3D views
 * Pick transform? (respecting axis locks)
 * Grase pencil summaries?
+
+see also: https://vimeo.com/user2228784/videos
 
 see also: http://modo.docs.thefoundry.co.uk/modo/601/help/pages/modotoolbox/ActionCenters.html
 
